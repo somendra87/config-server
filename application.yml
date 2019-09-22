@@ -6,6 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/somendra87/config-server.git
+          uri: https://github.com/somendra87/config-server
           search-paths:
           - '*config'
