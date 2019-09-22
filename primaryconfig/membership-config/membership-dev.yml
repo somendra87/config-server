@@ -1,26 +1,10 @@
-service:
-  name: membership service development
-
-inventory:
-  car:
-    company: Astonmartin
-      name: astonmartin
-    company: VolksVagen
-      name: Audiq
-    company: Jaguar
-      name: jaguarxf
-
-rent:
-  season: summer, winter, fall, autumn
-  price:
-    summer: 3478
-    winter: 2929
-    fall: 2123
-    autumn: 9087
-
-car:
-  kilometers:
-    name: astonmartin
-      kms: 60000
-    name: jaguar
-      kms: 7000
+member:
+ rent:
+  min: 7
+  max: 30
+ price:
+  discount: 3
+vehicle:
+ default:
+  model: cross over
+duration: all

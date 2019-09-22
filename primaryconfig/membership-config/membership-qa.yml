@@ -1,26 +1,10 @@
-service:
-  name: membership service qa
-
-inventory:
-  car:
-    company: bentley
-      name: bentley
-    company: VolksVagen
-      name: beetle
-    company: Ford
-      name: mustanggt
-
-rent:
-  season: summer, winter, fall, autumn
-  price:
-    summer: 1001
-    winter: 2002
-    fall: 3003
-    autumn: 4004
-
-car:
-  kilometers:
-    name: bmw
-      kms: 60000
-    name: audi
-      kms: 7000
+member:
+ rent:
+  min: 10
+  max: 33
+ price:
+  discount: 3
+vehicle:
+ default:
+  model: cross over
+duration: all

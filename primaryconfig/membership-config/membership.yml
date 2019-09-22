@@ -1,26 +1,10 @@
-service:
-  name: membership service default
-
-inventory:
-  car:
-    company: BMW
-      name: bmw
-    company: VolksVagen
-      name: vento
-    company: Ferrai
-      name: ferrari
-
-rent:
-  season: summer, winter, fall, autumn
-  price:
-    summer: 1001
-    winter: 2002
-    fall: 3003
-    autumn: 4004
-
-car:
-  kilometers:
-    name: bmw
-      kms: 60000
-    name: audi
-      kms: 7000
+member:
+ rent:
+  min: 8
+  max: 31
+ price:
+  discount: 3
+vehicle:
+ default:
+  model: cross over
+duration: all
