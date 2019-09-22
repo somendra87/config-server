@@ -8,4 +8,4 @@ spring:
         git:
           uri: https://github.com/somendra87/config-server.git
           search-paths:
-          - '*.service'
+          - '*config'
