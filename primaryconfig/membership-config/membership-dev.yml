@@ -4,9 +4,9 @@ service:
 inventory:
   car:
     company: Astonmartin
-      name: astonmartinx1
+      name: astonmartin
     company: VolksVagen
-      name: Audiq7
+      name: Audiq
     company: Jaguar
       name: jaguarxf
 

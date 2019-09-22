@@ -4,7 +4,7 @@ service:
 inventory:
   car:
     company: bentley
-      name: bentleyx1
+      name: bentley
     company: VolksVagen
       name: beetle
     company: Ford

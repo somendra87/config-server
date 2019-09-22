@@ -4,11 +4,11 @@ service:
 inventory:
   car:
     company: BMW
-      name: bmwx1
+      name: bmw
     company: VolksVagen
       name: vento
     company: Ferrai
-      name: ferrarif1
+      name: ferrari
 
 rent:
   season: summer, winter, fall, autumn
