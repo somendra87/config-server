@@ -4,18 +4,18 @@ service:
 inventory:
   car:
     company: bentley
-      name: bentley x1
-    company: Volks Vagen
+      name: bentleyx1
+    company: VolksVagen
       name: beetle
     company: Ford
-      name: mustang gt
+      name: mustanggt
 
 rent:
   season: summer, winter, fall, autumn
   price:
     summer: 1001
     winter: 2002
-    fall: 3003:
+    fall: 3003
     autumn: 4004
 
 car:

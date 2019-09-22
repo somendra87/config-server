@@ -4,18 +4,18 @@ service:
 inventory:
   car:
     company: BMW
-      name: bmw x1
-    company: Volks Vagen
+      name: bmwx1
+    company: VolksVagen
       name: vento
     company: Ferrai
-      name: ferrari f1
+      name: ferrarif1
 
 rent:
   season: summer, winter, fall, autumn
   price:
     summer: 1001
     winter: 2002
-    fall: 3003:
+    fall: 3003
     autumn: 4004
 
 car:
