@@ -1,2 +1,26 @@
 service:
-  name: membership service dev
+  name: membership service development
+
+inventory:
+  car:
+    company: Aston martin
+      car-name: aston martin x1
+    company: Volks Vagen
+      car-name: Audi q7
+    company: Jaguar
+      car-name: jaguar xf
+
+rent:
+  season: summer, winter, fall, autumn
+  price:
+    summer: 3478
+    winter: 2929
+    fall: 2123
+    autumn: 9087
+
+car:
+  kilometers:
+    car-name: aston martin
+      kms: 60000
+    car-name: jaguar
+      kms: 7000

@@ -1,2 +1,26 @@
 service:
   name: membership service prod
+
+inventory:
+  car:
+    company: bentley
+      car-name: bentley x1
+    company: Volks Vagen
+      car-name: beetle
+    company: Ford
+      car-name: mustang gt
+
+rent:
+  season: summer, winter, fall, autumn
+  price:
+    summer: 1001
+    winter: 2002
+    fall: 3003:
+    autumn: 4004
+
+car:
+  kilometers:
+    car-name: bmw
+      kms: 60000
+    car-name: audi
+      kms: 7000
