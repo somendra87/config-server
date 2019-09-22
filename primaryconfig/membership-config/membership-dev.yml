@@ -4,11 +4,11 @@ service:
 inventory:
   car:
     company: Aston martin
-      car-name: aston martin x1
+      name: aston martin x1
     company: Volks Vagen
-      car-name: Audi q7
+      name: Audi q7
     company: Jaguar
-      car-name: jaguar xf
+      name: jaguar xf
 
 rent:
   season: summer, winter, fall, autumn
@@ -20,7 +20,8 @@ rent:
 
 car:
   kilometers:
-    car-name: aston martin
+    name: aston martin
       kms: 60000
-    car-name: jaguar
+
+    name: jaguar
       kms: 7000

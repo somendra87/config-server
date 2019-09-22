@@ -4,11 +4,11 @@ service:
 inventory:
   car:
     company: BMW
-      car-name: bmw x1
+      name: bmw x1
     company: Volks Vagen
-      car-name: vento
+      name: vento
     company: Ferrai
-      car-name: ferrari f1
+      name: ferrari f1
 
 rent:
   season: summer, winter, fall, autumn
@@ -20,7 +20,7 @@ rent:
 
 car:
   kilometers:
-    car-name: bmw
+    name: bmw
       kms: 60000
-    car-name: audi
+    name: audi
       kms: 7000
